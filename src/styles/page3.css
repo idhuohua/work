@@ -1,0 +1,22 @@
+
+.img0{
+    height: 500px;
+    width: 700px;
+}
+.imgx{
+    height: 80px;
+    width: 170px;
+}
+
+
+.modal-content {
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+    height: 250px;
+    width: auto;
+  }
+  
+.modal-content.visible {
+    opacity: 1;
+  }
+  

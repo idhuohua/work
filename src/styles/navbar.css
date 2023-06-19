@@ -1,0 +1,53 @@
+.nav-container {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold; /* 添加加粗字体样式 */
+  }
+  
+  ul li {
+    margin-left: 10px;
+    font-weight: bold; /* 添加加粗字体样式 */
+  }
+  
+  ul li:first-child {
+    margin-left: 10;
+    font-weight: bold; /* 添加加粗字体样式 */
+  }
+  ul li:hover {
+    color: rgb(141, 100, 13);
+  }
+  
+  .nav-title {
+    margin-right: 10px;
+  }
+  
+  /* .navbar.hidden {
+    display: none;
+  }
+   */
+
+   .navbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color:transparent;
+  }
+  .nav-logo {
+    width: 100px; /* 设置图片的宽度 */
+    height: auto; /* 设置图片的高度自适应 */
+  }
+  
+  .img{
+    display: flex;
+    height: 30px;
+    width: 200px;
+  }
