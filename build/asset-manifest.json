@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.45c1bfb3.css",
+    "main.js": "./static/js/main.cce5b5ef.js",
+    "static/media/welcome.png": "./static/media/welcome.9b3f7215025ce39a6b0e.png",
+    "static/media/xiang.svg": "./static/media/xiang.1a7de9d4051f8ad60c622dc8d545ddbd.svg",
+    "static/media/mg3.png": "./static/media/mg3.701903d0bc7e03d36cc3.png",
+    "static/media/资源 1.png": "./static/media/资源 1.b067e5e6f7c449d4582f.png",
+    "static/media/left1.png": "./static/media/left1.299b0bd5dd9b0d81174a.png",
+    "static/media/left2.png": "./static/media/left2.b6e5a2ef7ece5decbf7f.png",
+    "static/media/mg4.png": "./static/media/mg4.e5496326ede5adf1809d.png",
+    "static/media/资源 12.png": "./static/media/资源 12.c23e566f877800f920b9.png",
+    "static/media/资源 13.png": "./static/media/资源 13.3b20d3588339019640fe.png",
+    "static/media/资源 10.png": "./static/media/资源 10.144e1209ecb735e49892.png",
+    "static/media/img.png": "./static/media/img.9fad703fd7a848f66d0b.png",
+    "static/media/BubbleNew.svg": "./static/media/BubbleNew.261f4015ede6276231e12465d5ca274c.svg",
+    "static/media/mg.png": "./static/media/mg.7cf8faf4c95025ad8aa3.png",
+    "static/media/资源 7.png": "./static/media/资源 7.2b1e7159204209a72fe9.png",
+    "static/media/资源 8.png": "./static/media/资源 8.8e1e945333f42b03a5b8.png",
+    "static/media/1.png": "./static/media/1.92f8a3b97798fc4fe2a8.png",
+    "static/media/资源 9.png": "./static/media/资源 9.57aac638e8cf00155bad.png",
+    "static/media/link3.png": "./static/media/link3.291ddaf0c38c0ed35cc1.png",
+    "static/media/link1.png": "./static/media/link1.881c6961da747227b78f.png",
+    "static/media/link2.png": "./static/media/link2.4e1a4f1d8006498e042e.png",
+    "index.html": "./index.html",
+    "main.45c1bfb3.css.map": "./static/css/main.45c1bfb3.css.map",
+    "main.cce5b5ef.js.map": "./static/js/main.cce5b5ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45c1bfb3.css",
+    "static/js/main.cce5b5ef.js"
+  ]
+}
